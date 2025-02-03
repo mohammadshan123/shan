@@ -2,7 +2,7 @@ Share
 
 
 You said:
-![My card name](https://cardivo.vercel.app/api?name=MOHAMMAD+SHAN+NS%20&description=Hey!,%20welcome%20to%20the%20World📖🖊️&image=https://avatars.githubusercontent.com/u/189695642?s=400&u=dab53406165a5c682fa0e51c9aea25fe63a8d864&v=4/u/189607350?s=400&u=dc2adf008db52104cbe6ba470d149a44f6a7962c&v=4s=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%2336454F&instagram=afxan_&github=afnanvh369&pattern=topography&colorPattern=%23928E85&fontColor=%white)
+![My card name](https://cardivo.vercel.app/api?name=MOHAMMAD+SHAN+NS%20&description=Hey!,%20welcome%20to%20the%20World📖🖊️&image=https://avatars.githubusercontent.com/u/189695642?s=400&u=dab53406165a5c682fa0e51c9aea25fe63a8d864&v=4/u/189607350?s=400&u=dc2adf008db52104cbe6ba470d149a44f6a7962c&v=4s=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%2336454F&instagram=mohammedshan__&github=mohammadshan123&pattern=topography&colorPattern=%23928E85&fontColor=%white)
 </p>
 
 
